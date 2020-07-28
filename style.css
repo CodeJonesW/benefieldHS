@@ -1,0 +1,47 @@
+body {
+ text-align: center;
+ background: url("./yard.jpg") no-repeat center center fixed;
+ background-size: cover;
+ min-height: 100%;
+ overflow: visible;
+ 
+}
+
+.main {
+  content-align: center;
+}
+
+#myNav {
+    background-color: rgba(104, 120, 50, 1);
+    opacity: .9;
+}
+
+#centerCardRow {
+    margin-top: 10vh;
+    content-align: center;
+}
+
+#centerCard {
+    background-color: rgba(104, 120, 50, .9);
+    color: rgba(82, 29, 32, .9);
+    border-radius: 10px;
+}
+
+#movingImg {
+    width:100%;
+    height: auto;
+    border-radius: 2px;
+}
+
+#jobDescriptions {
+   
+}
+
+.jobCol {
+    margin: 5%;
+}
+
+#myButton {
+    background-color: rgba(82, 29, 32, .9);
+    color: rgba(104, 120, 50, .9);
+}
