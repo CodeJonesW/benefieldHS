@@ -59,16 +59,16 @@ body {
 }
 
 #centerCardRow {
-    margin-top: 10vh;
+    margin-top: 10%;
     content-align: center;
 }
 
 #centerRow{
-    margin-top: 30vh
+    margin-top: 30%
 }
 
 #bottomRow{
-    margin-top: 10vh;
-    margin-bottom: 20vh;
+    margin-top: 10%;
+    margin-bottom: 20%;
 }
 
