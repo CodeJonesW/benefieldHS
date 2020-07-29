@@ -13,19 +13,13 @@ body {
 
 #myNav {
     background-color: rgba(255, 255, 255, 1);
-    opacity: .9;
+    /* opacity: .9; */
 }
 
 
 
 #centerCard {
-    background-color: rgba(255, 255, 255, .9);;
-    color: rgba(112, 74, 44, 1);;
-    border-radius: 10px;
-}
-
-#jacksonsCard {
-    background-color: rgba(255, 255, 255, .9);;
+    background-color: rgba(255, 255, 255, 1);
     color: rgba(112, 74, 44, 1);;
     border-radius: 10px;
 }
@@ -34,15 +28,41 @@ body {
     width:100%;
     height: auto;
     border-radius: 2px;
-}
-
-.jobCol {
-    margin: 5%;
+   
 }
 
 #myButton {
-    background-color: rgba(112, 74, 44, .9);
-    color: rgba(255, 255, 255, 1);
+    background-color: rgba(112, 74, 44, 1);
+    color: rgba(205, 195, 177, 1);
+}
+
+.jobCol {
+    margin: 2%;
+}
+
+#firstRow {
+    margin-top: 10%;
+    content-align: center;
+}
+
+#secondRow{
+    margin-top: 30%
+}
+
+#thirdRow{
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+
+
+
+
+#jacksonsCard {
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(112, 74, 44, 1);;
+    border-radius: 10px;
+    
 }
 
 #jacksonCardTitle {
@@ -54,21 +74,16 @@ body {
     border-radius: 5px;
 }
 
+#jacksonProfileLogo {
+    opacity: .8;
+    width: 70%;
+    height: auto;
+}
+
 #jacksonDescription {
     margin-top: 2%;
 }
 
-#centerCardRow {
-    margin-top: 10%;
-    content-align: center;
-}
 
-#centerRow{
-    margin-top: 30%
-}
 
-#bottomRow{
-    margin-top: 10%;
-    margin-bottom: 20%;
-}
 
