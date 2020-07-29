@@ -16,12 +16,15 @@ body {
     opacity: .9;
 }
 
-#centerCardRow {
-    margin-top: 10vh;
-    content-align: center;
-}
+
 
 #centerCard {
+    background-color: rgba(255, 255, 255, .9);;
+    color: rgba(112, 74, 44, 1);;
+    border-radius: 10px;
+}
+
+#jacksonsCard {
     background-color: rgba(255, 255, 255, .9);;
     color: rgba(112, 74, 44, 1);;
     border-radius: 10px;
@@ -33,10 +36,6 @@ body {
     border-radius: 2px;
 }
 
-#jobDescriptions {
-   
-}
-
 .jobCol {
     margin: 5%;
 }
@@ -46,7 +45,30 @@ body {
     color: rgba(255, 255, 255, 1);
 }
 
+#jacksonCardTitle {
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+#jacksonProfilePhoto {
+    border-radius: 5px;
+}
+
+#jacksonDescription {
+    margin-top: 2%;
+}
+
+#centerCardRow {
+    margin-top: 10vh;
+    content-align: center;
+}
 
 #centerRow{
     margin-top: 30vh
 }
+
+#bottomRow{
+    margin-top: 10vh;
+    margin-bottom: 20vh;
+}
+
