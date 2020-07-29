@@ -12,7 +12,7 @@ body {
 }
 
 #myNav {
-    background-color: rgba(104, 120, 50, 1);
+    background-color: rgba(255, 255, 255, 1);
     opacity: .9;
 }
 
@@ -22,8 +22,8 @@ body {
 }
 
 #centerCard {
-    background-color: rgba(104, 120, 50, .9);
-    color: rgba(82, 29, 32, .9);
+    background-color: rgba(255, 255, 255, .9);;
+    color: rgba(112, 74, 44, 1);;
     border-radius: 10px;
 }
 
@@ -42,6 +42,11 @@ body {
 }
 
 #myButton {
-    background-color: rgba(82, 29, 32, .9);
-    color: rgba(104, 120, 50, .9);
+    background-color: rgba(112, 74, 44, .9);
+    color: rgba(255, 255, 255, 1);
+}
+
+
+#centerRow{
+    margin-top: 30vh
 }
